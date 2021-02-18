@@ -17,6 +17,7 @@ Drop the latest release jar (https://github.com/Servoy/SetHeaderFiler/releases) 
             <param-value>1</param-value>
         </init-param>
     </filter>
+```
 
 The above example is adding a CSP header and some other header, you can add as many as you want.
 
