@@ -1,7 +1,7 @@
 # SetHeaderFiler
 A Servlet filter that can set any header on a request based on the init parameters to be used in any kind of servlet container like Tomcat
 
-Drop the latest release jar (https://github.com/Servoy/SetHeaderFiler/releases) on your WAR/WEB-INF/lib folder and then adjust the WEB-INF/web.xml to include this filter:
+Drop the latest release jar (https://github.com/Servoy/SetHeaderFilter/releases) on your WAR/WEB-INF/lib folder and then adjust the WEB-INF/web.xml to include this filter:
 
 ```xml
     <filter>
